@@ -1,0 +1,2 @@
+/home/lilkr0k0dil/Downloads/c++/rainbow_library/build/CMakeFiles/edit_cache.dir
+/home/lilkr0k0dil/Downloads/c++/rainbow_library/build/CMakeFiles/rebuild_cache.dir
